@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Fayzan Wasim
 
-Driven by a passion for crafting elegant and performant code, I am a Senior Software Engineer with over six years of experience in building, architecting, and maintaining high-quality web applications. My expertise spans across **Ruby on Rails**, **DevOps**, and **system architecture**, and I’m dedicated to creating solutions that are **scalable, maintainable, and thoroughly tested**.
+Driven by a passion for crafting elegant and performant code, I am a Senior Software Engineer with over eight years of experience in building, architecting, and maintaining high-quality web applications. My expertise spans across **Ruby on Rails**, **DevOps**, and **system architecture**, and I’m dedicated to creating solutions that are **scalable, maintainable, and thoroughly tested**.
 
 #### 🌐 My Coding Principles
 - **DRY & Scalable:** I’m committed to delivering code that is not only functional but also scalable and DRY (Don’t Repeat Yourself), ensuring long-term maintainability.
